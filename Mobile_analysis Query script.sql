@@ -130,5 +130,11 @@ select
 	From mobile
     where not country_of_Origin = "not specified"
     group by country_of_origin
-    limit 10
+    limit 10;
+
+-- The total no of brands sold --
+
+Select
+	count(distinct Brands) As Total_Brands_Sold
+From Mobile;
 	
