@@ -10,6 +10,35 @@ The business owner seeks to have an insight into his sales data, to unerstand sa
 
 ### Insights Needed By The Client
 
-The following primary insights were requested bt the client from his dataset
+The following primary insights were requested bt the client
 
-1. 
+1. Check mobile phone and pricelist
+   
+2. Find out the price of five most expensive phones
+ 
+3. Five most expensive andriod phones that were sold
+ 
+4. Total price of all phones sold per brand name
+ 
+5. Total quantity of phones sold
+ 
+6. Top 10 phones with the highest battery capacity
+ 
+7. Top 10 brands with the highest battery capacity which have android operating system
+ 
+8. Top 10 Countries with the highest sales of phones
+ 
+9. The total no of brands sold
+
+### Data Sources:
+
+The data was provided by the client. The file has been attached to this document
+
+### Data Cleaning and Preparation
+
+Data cleaning and preparation was done using SQL, and the neccessary informations were retrieved
+
+### Exploratory Data Analysis
+- What is the overall data trend
+
+- Which country has the highest sale
