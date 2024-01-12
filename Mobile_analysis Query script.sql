@@ -138,3 +138,10 @@ Select
 	count(distinct Brands) As Total_Brands_Sold
 From Mobile;
 	
+-- Which brand was sold the most--
+Select
+	brands,
+    SUM(Total_mobile) AS Total_brand_sold
+From Mobile
+Group By brands
+Order by Total_brand_sold Desc;
