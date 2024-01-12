@@ -74,7 +74,7 @@ Data cleaning and preparation was done using SQL, and the neccessary information
 
 Work on these
 
-- Find out the most ordered brands by country( Total phones ordered by a country, grouped by brands
+- Find out the most ordered brands by country( Total phones ordered by a country, grouped by brands)
 
 - Which country uses IOS phones most
 
@@ -84,6 +84,12 @@ Work on these
 
 ### Data Analysis
 
+An Exploratory data analysis was carried out the data provided using SQL to understand the patterns within the data. queries were given and findings were extracted.
+
 ### Result, Findings and Conclusion
+
+The following informations were observed from the data
+
+- 
 
 ### Recommendation
