@@ -72,14 +72,6 @@ Data cleaning and preparation was done using SQL, and the neccessary information
 
 - Which country has the highest sale
 
-Work on these
-
-- Find out the most ordered brands by country( Total phones ordered by a country, grouped by brands)
-
-- Which country uses IOS phones most
-
-- Which country uses andriod phones most
-
 - Which brand was sold the most
 
 ### Data Analysis
@@ -90,6 +82,12 @@ An Exploratory data analysis was carried out the data provided using SQL to unde
 
 The following informations were observed from the data
 
-- 
+- India has the highest total no of phones bought with 205 phones bought, followed by China with 24 phones
+
+- Apple has the highest sale with 101 phones followed by Samsung with 97 phones and Realme with 82 phones
 
 ### Recommendation
+
+The company should invest more in selling Apple, Samsung and Realme phones in order to make more profit.
+
+Most of its buyers are located in India and China, therefore more of its focus should be in the indian and Chinese market while scouting for more opportunities in Korea, and other countries
